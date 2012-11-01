@@ -213,7 +213,7 @@ The default directory structure of a generated Ruby on Rails application:
 
 
 app
-  <p>Holds all the code that's specific to this particular application.</p>
+  <p>	Holds all the code that's specific to this particular application.</p>
 
 app/assets
   Contains subdirectories for images, stylesheets, and JavaScript files.
